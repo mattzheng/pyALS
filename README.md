@@ -10,7 +10,7 @@
 
 
 > 练习代码可见：[mattzheng/pyALS](https://github.com/mattzheng/pyALS)
-
+> [练习题︱ python 协同过滤ALS模型实现：商品推荐 + 用户人群放大](https://mattzheng.blog.csdn.net/article/details/106542667)
 
 
 ---
